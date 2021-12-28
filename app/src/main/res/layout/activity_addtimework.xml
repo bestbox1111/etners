@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:hint="시간을 입력해 주세여"
+        android:textSize="30dp" />
+
+    <TextView
+        android:hint=""
+        android:background="#8BC34A"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="1dp"/>
+
+    <EditText
+        android:id="@+id/et_work"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="해야할 업무를 입력해주세요."
+        android:textSize="30dp" />
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Etners</string>
+    <string name="wo1">기상</string>
+    <string name="wo2">밥먹기</string>
+    <string name="wo3">옷입기</string>
+    <string name="wo4">출발</string>
+    <string name="wo5">발냄새</string>
+    <string name="wo6">새총</string>
+    <string name="wo7">총수</string>
+    <string name="wo8">수도꼭지</string>
+    <string name="wo9">지도</string>
+    <string name="wo10">도사</string>
+    <string name="wo11">사원</string>
+    <string name="wo12">원장</string>
+</resources>
